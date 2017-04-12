@@ -1,0 +1,42 @@
+body {
+   background-repeat: no-repeat;
+   background-image: url(../images/psychic1.jpg);
+   background-size: cover;
+   background-position: 30% 30%;
+   background-color: #382E47;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size:30px;
+	/*color: #873E6A;*/
+	color: white;
+	font-weight: normal;
+}
+
+p {
+	font-family: 'Pacifico', cursive;
+	font-size:18px;
+	color: white;
+}
+
+.inline {
+	display: inline;
+}
+
+#guesses {
+	font-family: 'Pacifico', cursive;
+	font-size:18px;
+	color: white;
+	
+}
+
+#psychicimg {
+	height: 40%;
+	width: 40%;
+}
+
+#errors {
+	font-size:30px;
+	color: white;
+}
